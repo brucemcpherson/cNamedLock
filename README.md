@@ -4,3 +4,8 @@ for more information see the [desktop liberation site](http://ramblings.mcpher.c
 you can see [library and dependency information here](dependencies.md)
 
 Now update manually with details of this project - this skeleton file is committed only when there is no README.md in the repo.
+
+# Unit Test
+
+run `namedLockTestRunner()` in Test.js
+
