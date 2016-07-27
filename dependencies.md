@@ -1,5 +1,5 @@
 # Google Apps Script Project: cNamedLock
-This repo (cNamedLock) was automatically updated on 21 October 2015 15:41:28 BST by GasGit
+This repo (cNamedLock) was automatically updated on 27 July 2016 10:35:07 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cNamedLock
@@ -19,7 +19,7 @@ cCacheHandler| cCacheHandler|M3reA5eBxtwxSqCEgPywb9ai_d-phDA33|15|no|[here](libr
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
 cCacheHandler| cCacheHandler|M3reA5eBxtwxSqCEgPywb9ai_d-phDA33|15|no|[here](libraries/cCacheHandler "library source")
-cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|25|no|[here](libraries/cUseful "library source")
+cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|32|no|[here](libraries/cUseful "library source")
 ### Enabled Google Services
 no libraries discovered
 ###Need more detail ?
